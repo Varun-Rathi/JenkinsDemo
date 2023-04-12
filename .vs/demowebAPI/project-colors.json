@@ -5,7 +5,12 @@
       "ProjectGuid": "9b0a9379-b75a-437e-9ac5-278d0b683896",
       "DisplayName": "demowebAPI",
       "ColorIndex": 0
+    },
+    "bd5326fb-db00-4922-a57c-3e7886c5ca92": {
+      "ProjectGuid": "bd5326fb-db00-4922-a57c-3e7886c5ca92",
+      "DisplayName": "webappJenkins",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
