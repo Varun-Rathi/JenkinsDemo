@@ -31,15 +31,7 @@ namespace demowebAPI.Controllers
         }
 
 
-        [HttpGet]
-        [Route("GetMsg")]
-
-
-        public String GetMsg()
-        {
-            return "Hello from GetMsg Action Method";
-        }
-
+       
 
 
     }

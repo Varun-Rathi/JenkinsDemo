@@ -29,5 +29,16 @@ namespace webappJenkins.Controllers
             })
             .ToArray();
         }
+
+
+        [HttpGet]
+        [Route("GetMsg")]
+
+
+        public String GetMsg()
+        {
+            return "Hello from GetMsg Action Method";
+        }
+
     }
 }

@@ -10,4 +10,6 @@ namespace webappJenkins
 
         public string? Summary { get; set; }
     }
+
+
 }
