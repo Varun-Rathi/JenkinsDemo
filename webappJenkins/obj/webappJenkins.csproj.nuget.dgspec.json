@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jrathiv1\\source\\repos\\demowebAPI\\demowebAPI\\demowebAPI.csproj": {}
+    "C:\\Users\\jrathiv1\\source\\repos\\demowebAPI\\webappJenkins\\webappJenkins.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jrathiv1\\source\\repos\\demowebAPI\\demowebAPI\\demowebAPI.csproj": {
+    "C:\\Users\\jrathiv1\\source\\repos\\demowebAPI\\webappJenkins\\webappJenkins.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jrathiv1\\source\\repos\\demowebAPI\\demowebAPI\\demowebAPI.csproj",
-        "projectName": "demowebAPI",
-        "projectPath": "C:\\Users\\jrathiv1\\source\\repos\\demowebAPI\\demowebAPI\\demowebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\jrathiv1\\source\\repos\\demowebAPI\\webappJenkins\\webappJenkins.csproj",
+        "projectName": "webappJenkins",
+        "projectPath": "C:\\Users\\jrathiv1\\source\\repos\\demowebAPI\\webappJenkins\\webappJenkins.csproj",
         "packagesPath": "C:\\Users\\jrathiv1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jrathiv1\\source\\repos\\demowebAPI\\demowebAPI\\obj\\",
+        "outputPath": "C:\\Users\\jrathiv1\\source\\repos\\demowebAPI\\webappJenkins\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jrathiv1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "(, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
